@@ -3,10 +3,6 @@
 Localized Game Terms - CROWD SOURCING
 
 ========================================
-Project initialized by Bard Hole Standal
-www.ghostsquid.com
-
-========================================
 
 A crowd sourcing effort to get the most common terms in games localized into different languages. 
 The basis is a CSV file, currently optimized/formatted for use with NGUI (for Unity 3D).
@@ -29,3 +25,8 @@ Please remember these are generic translations. You should have someone check th
 Contributors list:
 
 Bard Hole Standal, Mustafa Türksavaş, Behrooz Parham, Michael Fuchs
+
+
+====================
+Project created by Bard Hole Standal / bard@bard.co 
+www.ghostsquid.com
