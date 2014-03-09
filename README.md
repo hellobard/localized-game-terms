@@ -13,7 +13,7 @@ The basis is a CSV file, currently optimized/formatted for use with NGUI (for Un
 
 NOTES ON EDITING:
 
-Editing the CSV requires that you use UTF-8 encoding, so either edit it directly via Github or use a CSV editor that saves in the right format. You can always use GitHub's own editor to do the job.
+Editing the CSV requires that you use UTF-8 encoding, so either edit it directly via Github or use a CSV editor that saves in the right format.
 
 VERY IMPORTANT!
 Using MICROSOFT EXCEL will NOT work, it messes up the language encoding!
