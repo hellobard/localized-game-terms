@@ -1,4 +1,3 @@
-KEY,English,Français,Japanese
-Flag,Flag-US,Flag-FR,Flag-J
-Language,English,Français,ます
-SelectCar,SELECT CAR,SELECTE CARE,車を選択します
+KEY,English,Japanese,Chinese,Chinese-Simplified,French,
+Start,??,Start,??,??,??
+Start Game,??,??,??,??
