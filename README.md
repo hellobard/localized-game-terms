@@ -20,3 +20,7 @@ Using MICROSOFT EXCEL will NOT work, it messes up the language encoding!
 
 
 ====================
+
+Contributors list:
+
+Bard Hole Standal, Mustafa Türksavaş, Behrooz Parham, Michael Fuchs
