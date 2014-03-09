@@ -21,6 +21,11 @@ Using MICROSOFT EXCEL will NOT work, it messes up the language encoding!
 
 ====================
 
+NOTES ON USAGE:
+
+Please remember these are generic translations. You should have someone check the translations for you before using it.
+
+====================
 Contributors list:
 
 Bard Hole Standal, Mustafa Türksavaş, Behrooz Parham, Michael Fuchs
