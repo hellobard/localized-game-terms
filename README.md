@@ -11,6 +11,8 @@ NOTES ON EDITING:
 
 Editing the CSV requires that you use UTF-8 encoding, so either edit it directly via Github or use a CSV editor that saves in the right format. Google Docs works and "CSV Editor" for Mac is available in the App Store.
 
+Please only contribute if you know the language in question, machine translations via Google Translate are NOT wanted for this project.
+
 VERY IMPORTANT!
 Using MICROSOFT EXCEL will NOT work, it messes up the language encoding!
 
